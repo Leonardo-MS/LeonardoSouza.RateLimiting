@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Leonardo.Souza.Domain\LeonardoSouza.RateLimiting.Domain.csproj" />
+    <ProjectReference Include="C:\src\LeonardoSouza.RateLimiting\LeonardoSouza.RateLimiting.Application\LeonardoSouza.RateLimiting.Application.csproj" />
+  </ItemGroup>
+
+
+</Project>
